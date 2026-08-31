@@ -39,19 +39,6 @@ The STM32L432KBU6 was configured as the central controller of the gateway, with 
   <em>STM32L432KBU6 pin assignment used in the design</em>
 </p>
 
-## Project Status
-
-**Work in Progress**
-
-- Project started: **2022**
-- Objective: Exploration of the **STM32L432KBU6** and its capabilities
-- Schematic: **Existing gateway architecture finalized**
-- PCB layout: **In progress**
-- Firmware: **Started, but not completed**
-- Prototype: **Not yet completed**
-
-The current repository documents the developed USB-to-2.4 GHz RF gateway hardware. The PCB layout is being expanded before finalization to incorporate additional functionality.
-
 ## PCB Design
 
 The PCB layout was developed from the finalized schematic, with dedicated areas for the USB interface, power regulation, STM32, nRF24L01P, RF matching network, SMA antenna interface, and SWD connector.
@@ -73,6 +60,19 @@ The RF section was designed as a dedicated 50 Ω controlled-impedance interface 
 <p align="center">
   <em>2.4 GHz RF matching network, controlled-impedance transmission line and SMA interface</em>
 </p>
+
+## Project Status
+
+**Work in Progress**
+
+- Project started: **2022**
+- Objective: Exploration of the **STM32L432KBU6** and its capabilities
+- Schematic: **Existing gateway architecture finalized**
+- PCB layout: **In progress**
+- Firmware: **Started, but not completed**
+- Prototype: **Not yet completed**
+
+The current repository documents the developed USB-to-2.4 GHz RF gateway hardware. The PCB layout is being expanded before finalization to incorporate additional functionality.
 
 ## Planned Expansion
 
