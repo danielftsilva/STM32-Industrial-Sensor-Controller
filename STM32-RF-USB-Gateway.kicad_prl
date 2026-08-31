@@ -122,12 +122,24 @@
         "name": "STM32-RF-USB-Gateway.kicad_sch",
         "open": false,
         "window": {
-          "display": 2,
+          "display": 1,
           "maximized": true,
-          "pos_x": -8,
-          "pos_y": -1088,
-          "size_x": 1936,
-          "size_y": 1048
+          "pos_x": -9,
+          "pos_y": -9,
+          "size_x": 1938,
+          "size_y": 1158
+        }
+      },
+      {
+        "name": "STM32-RF-USB-Gateway.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 1,
+          "maximized": true,
+          "pos_x": -9,
+          "pos_y": -9,
+          "size_x": 1938,
+          "size_y": 1158
         }
       }
     ]
