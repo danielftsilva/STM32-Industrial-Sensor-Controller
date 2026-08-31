@@ -2,6 +2,10 @@
 
 ## Overview
 
+<p align="center">
+  <img src="PDFs/STM32-RF-USB-Gateway.pdf" width="600">
+</p>
+
 The **STM32-RF-USB-Gateway** is an embedded hardware platform I developed to provide a USB interface between a computer and a **2.4 GHz nRF24L01P wireless transceiver**.
 
 The objective of the project is to develop a compact USB-connected wireless gateway based on the **STM32L432KBU6**, allowing the microcontroller to interface with a host computer through USB while controlling the nRF24L01P through SPI.
