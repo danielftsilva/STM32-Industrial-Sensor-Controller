@@ -3,7 +3,12 @@
 ## Overview
 
 <p align="center">
-  <img src="PDFs/STM32-RF-USB-Gateway.pdf" width="600">
+  <img src="PDFs/STM32-RF-USB-Gateway.png" width="900">
+</p>
+<p align="center">
+  <a href="PDFs/STM32-RF-USB-Gateway.pdf">
+    View the complete schematic PDF
+  </a>
 </p>
 
 The **STM32-RF-USB-Gateway** is an embedded hardware platform I developed to provide a USB interface between a computer and a **2.4 GHz nRF24L01P wireless transceiver**.
