@@ -44,17 +44,17 @@ The STM32L432KBU6 was configured as the central controller of the gateway, with 
 The PCB layout was developed from the finalized schematic, with dedicated areas for the USB interface, power regulation, STM32, nRF24L01P, RF matching network, SMA antenna interface, and SWD connector.
 
 <p align="center">
-  <img src="docs/images/pcb-layout-overview.png" width="900">
+  <img src="PDFs/STM32_Layout_closeup.png" width="900">
 </p>
 
 <p align="center">
-  <em>Current PCB layout</em>
+  <em>Layout close-up of the STM32L4.</em>
 </p>
 
-The RF section was designed as a dedicated 50 Ω controlled-impedance interface between the nRF24L01P matching network and the external SMA connector.
+The RF section was designed as a dedicated 50Ω controlled-impedance interface between the nRF24L01P matching network and the external SMA connector.
 
 <p align="center">
-  <img src="docs/images/pcb-rf-section.png" width="900">
+  <img src="PDFs/SMA_and_nRF24L01P_layout_closeup.png" width="900">
 </p>
 
 <p align="center">
