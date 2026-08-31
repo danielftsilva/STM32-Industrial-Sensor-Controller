@@ -32,7 +32,7 @@ The design incorporates dedicated power regulation, USB ESD protection, a 16 MHz
 The STM32L432KBU6 was configured as the central controller of the gateway, with its peripherals and GPIOs assigned to the USB, nRF24L01P, SWD, and status interfaces.
 
 <p align="center">
-  <img src="docs/images/stm32-pinout.png" width="600">
+  <img src="misc/STM32L4 Pinout.PNG" width="600">
 </p>
 
 <p align="center">
